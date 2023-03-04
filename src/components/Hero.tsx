@@ -20,9 +20,9 @@ const Hero = () => {
             <span className="text-[#915eff]">Adrien</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Started as a hobbyist game developer and became a multidisciplinary 
-            developer, with exentisive knowledge and years experience, 
-            working in web technologies, delivering quality work. 
+            Web Developer <br />
+            Software Developer <br />
+            Game Developer
           </p>
         </div>
       </div>
